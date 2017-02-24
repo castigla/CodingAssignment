@@ -1,0 +1,14 @@
+I ran each of these programs with node from my terminal with the following commands:
+
+node Assignment1.js
+node Assignment2.js
+node Assignment3.js
+
+For Assignment1 I created an array to test my functions and will print the largest difference between two numbers in that array.
+
+For Assignment2 line 62 contains the rectangles being compared ex: 
+rectangles(rect1, rect2)
+
+The rectangles given in the assignment are within the code and can be tested by changing line 62. 
+
+For Assignment3, running the code will give the answer to the number given (667734139064).
